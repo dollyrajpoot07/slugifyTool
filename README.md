@@ -21,5 +21,6 @@ A simple React utility to convert any sentence or title into a URL-safe slug. Id
 2. The slugified version appears below in real-time.
 
 Example:
+
 <img width="746" alt="Screenshot 2025-07-09 at 11 34 35 PM" src="https://github.com/user-attachments/assets/489c0201-c004-4861-877e-8356b8b7bedf" />
 <img width="739" alt="Screenshot 2025-07-09 at 11 34 26 PM" src="https://github.com/user-attachments/assets/6f772e85-db91-43db-9681-50630e4e15f3" />
